@@ -1,0 +1,33 @@
+h1 {
+  color: blue;
+}
+
+body {
+  font-family: 'Open Sans';
+  color: white;
+  background-image: url("https://i.imgur.com/NUbz6g7.gif");
+}
+
+div {
+  position: fixed;
+  right: 0;
+  top: 0;
+  padding: 12px;
+}
+
+#blue-btn {
+  background: blue;
+}
+
+#green-btn {
+  background: green;
+}
+
+#red-btn {
+  background: red;
+}
+
+img {
+    width: 30%;
+    height: auto;
+}
